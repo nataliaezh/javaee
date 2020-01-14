@@ -1,4 +1,4 @@
-package geekbrains.persist;
+package persist;
 
 import java.sql.*;
 import java.util.ArrayList;

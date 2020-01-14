@@ -1,4 +1,4 @@
-package geekbrains.persist;
+package persist;
 
 public class User {
     private int id;

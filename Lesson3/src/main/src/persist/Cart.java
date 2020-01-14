@@ -1,4 +1,4 @@
-package geekbrains.persist;
+package persist;
 
 import javax.annotation.PostConstruct;
 import javax.servlet.http.HttpServletRequest;

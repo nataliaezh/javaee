@@ -1,5 +1,3 @@
-package geekbrains;
-
 import geekbrains.persist.Cart;
 import geekbrains.persist.OrderItem;
 import geekbrains.persist.Product;

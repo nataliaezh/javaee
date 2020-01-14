@@ -1,5 +1,3 @@
-package geekbrains;
-
 import geekbrains.persist.User;
 
 import javax.servlet.ServletException;

@@ -1,5 +1,3 @@
-package geekbrains;
-
 //import geekbrains.persist.ProductRepository;
 
 import geekbrains.persist.ProductRepository;
