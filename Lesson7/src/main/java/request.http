@@ -1,0 +1,28 @@
+GET http://localhost:8080/les6/api/products/all
+
+###
+
+DELETE http://localhost:8080/les6/api/products/1/id
+
+###
+
+PUT http://localhost:8080/les6/api/products/new
+
+Content-Type: application/json
+{
+"description":"REST",
+"name":"new REST",
+"price":1500.00
+}
+
+###
+
+POST http://localhost:8080/les6/api/products/update
+
+Content-Type: application/json
+{
+"description":"REST",
+"id":5,
+"name":"updated REST",
+"price":1800.00
+}
